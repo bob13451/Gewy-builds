@@ -3,7 +3,7 @@
   "short_name": "Gewy Builds",
   "description": "3D printed products and custom prints",
   "start_url": "./index.html",
-  "scope": "./",
+  "scope": "./index.html",
   "display": "standalone",
   "background_color": "#0d0e10",
   "theme_color": "#0d0e10",
